@@ -46,7 +46,7 @@ metadata {
         capability "Speech Synthesis"
         capability "Refresh"
         capability "Polling"
-        capability “Audio Notifications”
+        capability "Audio Notifications"
 
         // Custom attributes
         attribute "connection", "string"    // Connection status string
